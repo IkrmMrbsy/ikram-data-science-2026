@@ -1,4 +1,4 @@
-# Data Science - Portofolio Lengkap (Pertemuan 1 - 13)
+# Data Science - (Pertemuan 1 - 13)
 
 ### Identitas Mahasiswa
 * **Nama Lengkap:** IKRAM
@@ -10,8 +10,6 @@
 
 ### Deskripsi Repositori
 Repositori ini berisi kumpulan tugas praktikum mata kuliah Pengantar Data Science dari Pertemuan 1 sampai Pertemuan 13. Portofolio ini disusun secara terintegrasi untuk mendokumentasikan proses pembelajaran end-to-end, mulai dari pemahaman bisnis, eksplorasi, pembersihan data (*data cleaning*), analisis statistik, pemodelan prediktif (*Supervised & Unsupervised Learning*), hingga pengenalan teknologi kecerdasan buatan tingkat lanjut seperti *Deep Learning* dan *Natural Language Processing* (NLP).
-
-*(Catatan: Pertemuan 8 ditiadakan dalam rangkaian perkuliahan).*
 
 ---
 
@@ -50,5 +48,3 @@ Fase awal (Pertemuan 1-7) menanamkan fondasi kuat mengenai rekayasa data (*data 
 1. **Supervised Learning (Klasifikasi)**: Mengimplementasikan evaluasi berbasis *Confusion Matrix* serta menangani anomali ketidakseimbangan data (*imbalanced dataset*) dengan taktik *class weight* dan algoritma Random Forest untuk mengoptimalkan nilai *Recall* pada kasus bisnis krusial seperti *Customer Churn*.
 2. **Unsupervised Learning**: Menguasai segmentasi populasi tanpa label melalui kombinasi metode Elbow dan K-Means, serta mengekstrak pola aturan transaksi belanja tersembunyi menggunakan algoritma Apriori (*Market Basket Analysis*) untuk menyusun sistem rekomendasi produk digital.
 3. **Kecerdasan Buatan Modern**: Membangun intuisi dasar mengenai cara kerja jaringan saraf tiruan (*Artificial Neural Networks*) menggunakan API Keras/TensorFlow untuk memetakan fungsi klasifikasi non-linear, sekaligus menerapkan rekayasa fitur teks (*Text Vectorization*) lewat pembobotan TF-IDF untuk analisis sentimen sederhana.
-
-Secara keseluruhan, rangkaian praktikum ini berhasil mengintegrasikan teori matematis ke dalam arsitektur kode pemrograman Python yang aplikatif, adaptif, dan siap dikembangkan menuju skala produksi.
